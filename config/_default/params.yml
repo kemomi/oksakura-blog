@@ -30,8 +30,8 @@ monthFormat: "2006-01"
 dateFormat: "2006-01-02"
 timeFormat: "2006-01-02 15:04:05"
 
-author: D-Sketon
-email: xxx@example.com
+author: kemomi
+email: kemomi@126.com
 description: "少女祈祷中..."
 # subtitle: "少女祈祷中..."
 subtitle:
@@ -127,20 +127,20 @@ social:
   # email: mailto:xxx@gmail.com
   github: https://github.com/kemomi
   # google: https://plus.google.com/yourname
-  # twitter: https://twitter.com/yourname
+  twitter: https://x.com/7foxcat
   # bluesky: https://bsky.app/profile/yourname
-  # facebook: https://www.facebook.com/yourname
+  facebook: https://www.facebook.com/profile.php?id=100066738242602
   # instagram: https://www.instagram.com/yourname
   # linkedin: https://www.linkedin.com/in/yourname
-  # pinterest: https://www.pinterest.com/yourname
+  pinterest: https://pin.it/2HKpV2QO3
   # youtube: https://www.youtube.com/channel/yourname
   # vimeo: https://vimeo.com/yourname
   # flickr: https://www.flickr.com/photos/yourname
   # dribbble: https://dribbble.com/yourname
   # behance: https://www.behance.net/yourname
-  # bilibili: https://space.bilibili.com/yourname
-  # weibo: https://weibo.com/yourname
-  # zhihu: https://www.zhihu.com/people/yourname
+  bilibili: https://space.bilibili.com/3745018894356363
+  weibo: https://weibo.com/u/7503407959
+  zhihu: https://www.zhihu.com/people/root-sudo
   # reddit: https://www.reddit.com/user/yourname
   # tumblr: https://yourname.tumblr.com
   # medium: https://medium.com/@yourname
